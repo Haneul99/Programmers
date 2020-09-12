@@ -39,4 +39,7 @@ public class FunctionDevelopment {
 }
 /*
 Programmers Skill Check Level2
+Compute how many days needed to complete progresses
+if preceded progresses haven't done, following progresses completed after then.
+if the number of days needed to complete progresses are same, count it
 */
