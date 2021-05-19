@@ -43,7 +43,7 @@ string solution(string play_time, string adv_time, vector<string> logs) {
 		cum_time += see[i];
 	}
 	long long max = cum_time;
-	aint start_time = 0;
+	int start_time = 0;
 
 	int cnt = 0;
 
